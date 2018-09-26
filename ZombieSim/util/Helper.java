@@ -1,4 +1,4 @@
-package cs2113.util;
+package ZombieSim.util;
 
 import java.util.Random;
 

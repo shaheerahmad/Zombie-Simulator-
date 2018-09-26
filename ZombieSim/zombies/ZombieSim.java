@@ -1,7 +1,7 @@
 package ZombieSim.zombies;
 
-import cs2113.util.DotPanel;
-import cs2113.util.Helper;
+import ZombieSim.util.DotPanel;
+import ZombieSim.util.Helper;
 
 import java.awt.event.KeyListener;
 import java.awt.event.KeyEvent;

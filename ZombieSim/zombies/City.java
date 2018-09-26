@@ -1,7 +1,7 @@
-package cs2113.zombies;
+package ZombieSim.zombies;
 import java.util.*;
 
-import cs2113.util.Helper;
+import ZombieSim.util.Helper;
 
 import java.awt.Color;
 
