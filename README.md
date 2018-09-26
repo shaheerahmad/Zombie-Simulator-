@@ -1,4 +1,4 @@
-# Zombie-Simulator-
+# Zombie-Simulator
 Zombie Sim Game 
 
 For this project, I have created a zombie simulation game. In essence, a zombie is
